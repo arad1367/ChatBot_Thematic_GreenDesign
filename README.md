@@ -28,6 +28,6 @@ Interface: `Gradio`
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-pejman.ebrahimi77@gmail.com
-info@giltech-support.co.uk
-https://giltech-megoldasok.com/
+`pejman.ebrahimi77@gmail.com`
+`info@giltech-support.co.uk`
+`https://giltech-megoldasok.com/`
