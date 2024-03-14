@@ -9,6 +9,9 @@
 `Note on Performance`: Due to the use of the free, CPU-based Microsoft DialoGPT-large model, the app's speed may be lower compared to models running on more powerful hardware. 
 Consider switching to a model from OpenAI or Hugging Face for improved performance.
 
+## Themes for Gradio
+https://huggingface.co/spaces/gradio/theme-gallery
+
 ## Usage
 To use GreenBot, follow these steps:
 - Install the required dependencies by running `pip install transformers gradio torch`.
