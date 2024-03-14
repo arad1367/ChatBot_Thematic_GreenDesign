@@ -49,5 +49,5 @@ gr.Interface(
     title=title,
     description=description,
     examples=examples,
-    theme="light",
+    theme="abidlabs/pakistan",
 ).launch()
